@@ -19,7 +19,7 @@ Code, Annotations and Models are described in the following papers:
 
 ```sh
 git clone https://github.com/poorna0601/stand-up.git
-cd laughter-detection
+cd stand-up
 pip install -r requirements.txt
 ```
 
