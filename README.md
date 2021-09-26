@@ -18,7 +18,7 @@ Code, Annotations and Models are described in the following papers:
 ## Installation
 
 ```sh
-git clone https://github.com/jrgillick/laughter-detection.git
+git clone https://github.com/poorna0601/stand-up.git
 cd laughter-detection
 pip install -r requirements.txt
 ```
